@@ -1,5 +1,6 @@
 # git_basic_cheat_sheet
 to whoever it might be helpful
+this is the note that i made when i was learning git.
 
 git config --global user.name "Username"
 git config --email user.email "Email"
