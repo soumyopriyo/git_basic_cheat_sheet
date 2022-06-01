@@ -37,6 +37,8 @@ cd-change directory
 >git push -u origin master -to push the files in our local repo to the remote repo.
 	[the "-u" is knowm as "upstream" as it sets the origin master as default]
 
+>change the origin link----->git remote set-url origin <link
+	
 >pull-download changes from remote repo to your local machine,the opposite of push.
 >git pull origin master-it will pull the changes from remote repo to local repo (origin(where) from master branch).
 
